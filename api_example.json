@@ -1,0 +1,732 @@
+{
+    "products": [   
+        {
+            "code": "123",
+            "name": "Test",
+            "description": "test",
+            "variants": [
+                {
+                    "color": "Transparente",
+                    "novedad": false,
+                    "stock_available": 1,
+                    "stock_existent": 0,
+                    "list_price": "1.0",
+                    "net_price": "0.95",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/008/228/small_thumb/1.jpg?1519666108",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/008/228/medium_thumb/1.jpg?1519666108"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/011/141/small_thumb/1.png?1519677445",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/011/141/medium/1.png?1519677445"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP100",
+            "name": "BOLÍGRAFO",
+            "description": "Plástico. Frozen. Cuerpo triangular. Pulsador y puntera color plata. Grip de goma. Clip traslúcido. Tinta negra.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Transparente",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 0,
+                    "list_price": "0.26",
+                    "net_price": "0.25",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/540/small_thumb/bp100bajablanco.JPG?1519664206",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/540/medium_thumb/bp100bajablanco.JPG?1519664206"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/615/small_thumb/bp100altablanco.JPG?1519675928",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/615/medium/bp100altablanco.JPG?1519675928"
+                    }
+                },
+                {
+                    "color": "Azul",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 0,
+                    "list_price": "0.26",
+                    "net_price": "0.25",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/541/small_thumb/BP100-03.jpg?1519664207",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/541/medium_thumb/BP100-03.jpg?1519664207"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/616/small_thumb/BP100-03.jpg?1519675929",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/616/medium/BP100-03.jpg?1519675929"
+                    }
+                },
+                {
+                    "color": "Verde",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 0,
+                    "list_price": "0.26",
+                    "net_price": "0.25",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/542/small_thumb/BP100-04.jpg?1519664209",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/542/medium_thumb/BP100-04.jpg?1519664209"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/617/small_thumb/BP100-04.jpg?1519675931",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/617/medium/BP100-04.jpg?1519675931"
+                    }
+                },
+                {
+                    "color": "Rojo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 0,
+                    "list_price": "0.26",
+                    "net_price": "0.25",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/543/small_thumb/BP100-05.jpg?1519664210",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/543/medium_thumb/BP100-05.jpg?1519664210"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/618/small_thumb/BP100-05.jpg?1519675933",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/618/medium/BP100-05.jpg?1519675933"
+                    }
+                },
+                {
+                    "color": "Naranja",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 0,
+                    "list_price": "0.26",
+                    "net_price": "0.25",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/544/small_thumb/BP100-20.jpg?1519664212",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/544/medium_thumb/BP100-20.jpg?1519664212"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/619/small_thumb/BP100-20.jpg?1519675934",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/619/medium/BP100-20.jpg?1519675934"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP131",
+            "name": "BOLÍGRAFO",
+            "description": "Plástico. Frozen. Cuerpo curvo de color. Pulsador, clip y puntera color plata. Tinta negra.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Blanco",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.32",
+                    "net_price": "0.3",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/556/small_thumb/BP131-01.jpg?1519664235",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/556/medium_thumb/BP131-01.jpg?1519664235"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/631/small_thumb/BP131-01.jpg?1519675958",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/631/medium/BP131-01.jpg?1519675958"
+                    }
+                },
+                {
+                    "color": "Azul",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.32",
+                    "net_price": "0.3",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/557/small_thumb/BP131-03.jpg?1519664237",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/557/medium_thumb/BP131-03.jpg?1519664237"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/632/small_thumb/BP131-03.jpg?1519675960",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/632/medium/BP131-03.jpg?1519675960"
+                    }
+                },
+                {
+                    "color": "Verde",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.32",
+                    "net_price": "0.3",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/558/small_thumb/BP131-04.jpg?1519664239",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/558/medium_thumb/BP131-04.jpg?1519664239"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/633/small_thumb/BP131-04.jpg?1519675962",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/633/medium/BP131-04.jpg?1519675962"
+                    }
+                },
+                {
+                    "color": "Rojo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.32",
+                    "net_price": "0.3",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/559/small_thumb/BP131-05.jpg?1519664241",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/559/medium_thumb/BP131-05.jpg?1519664241"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/634/small_thumb/BP131-05.jpg?1519675964",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/634/medium/BP131-05.jpg?1519675964"
+                    }
+                },
+                {
+                    "color": "Naranja",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.32",
+                    "net_price": "0.3",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/560/small_thumb/BP131-20.jpg?1519664243",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/560/medium_thumb/BP131-20.jpg?1519664243"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/635/small_thumb/BP131-20.jpg?1519675966",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/635/medium/BP131-20.jpg?1519675966"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP133",
+            "name": "BOLÍGRAFO",
+            "description": "Plástico. Frozen. Pulsador y puntera color plata. Clip de igual color que el cuerpo. Grip de goma. Tinta negra.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Transparente",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.36",
+                    "net_price": "0.34",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/561/small_thumb/BP_133-white.jpg?1519664244",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/561/medium_thumb/BP_133-white.jpg?1519664244"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1tj28fx6rzo9f.cloudfront.net/pictures/small_thumb/missing.png",
+                        "medium": "https://d1tj28fx6rzo9f.cloudfront.net/pictures/medium/missing.png"
+                    }
+                },
+                {
+                    "color": "Negro",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.36",
+                    "net_price": "0.34",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/562/small_thumb/BP133-02.jpg?1519664247",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/562/medium_thumb/BP133-02.jpg?1519664247"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/636/small_thumb/BP133-02.jpg?1519675968",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/636/medium/BP133-02.jpg?1519675968"
+                    }
+                },
+                {
+                    "color": "Azul",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 3,
+                    "list_price": "0.36",
+                    "net_price": "0.34",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/563/small_thumb/BP133-03.jpg?1519664249",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/563/medium_thumb/BP133-03.jpg?1519664249"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/637/small_thumb/BP133-03.jpg?1519675970",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/637/medium/BP133-03.jpg?1519675970"
+                    }
+                },
+                {
+                    "color": "Rojo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 5,
+                    "list_price": "0.36",
+                    "net_price": "0.34",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/564/small_thumb/BP133-05.jpg?1519664252",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/564/medium_thumb/BP133-05.jpg?1519664252"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/638/small_thumb/BP133-05.jpg?1519675972",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/638/medium/BP133-05.jpg?1519675972"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP134",
+            "name": "BOLÍGRAFO",
+            "description": "Plástico. Cuerpo frozen de color. Pulsador y grip traslúcidos. Clip anatómico de goma y puntera transparentes. Tinta negra.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Transparente",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.29",
+                    "net_price": "0.28",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/565/small_thumb/BP134-transparente.jpg?1519664254",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/565/medium_thumb/BP134-transparente.jpg?1519664254"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/639/small_thumb/BP134-transparente.jpg?1519675974",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/639/medium/BP134-transparente.jpg?1519675974"
+                    }
+                },
+                {
+                    "color": "Azul",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.29",
+                    "net_price": "0.28",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/566/small_thumb/BP134-03.jpg?1519664256",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/566/medium_thumb/BP134-03.jpg?1519664256"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/640/small_thumb/BP134-03.jpg?1519675977",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/640/medium/BP134-03.jpg?1519675977"
+                    }
+                },
+                {
+                    "color": "Verde",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.29",
+                    "net_price": "0.28",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/567/small_thumb/BP134-04.jpg?1519664258",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/567/medium_thumb/BP134-04.jpg?1519664258"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/641/small_thumb/BP134-04.jpg?1519675978",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/641/medium/BP134-04.jpg?1519675978"
+                    }
+                },
+                {
+                    "color": "Rojo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.29",
+                    "net_price": "0.28",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/568/small_thumb/BP134-05.jpg?1519664259",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/568/medium_thumb/BP134-05.jpg?1519664259"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/642/small_thumb/BP134-05.jpg?1519675980",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/642/medium/BP134-05.jpg?1519675980"
+                    }
+                },
+                {
+                    "color": "Amarillo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.29",
+                    "net_price": "0.28",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/569/small_thumb/BP134-11.jpg?1519664261",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/569/medium_thumb/BP134-11.jpg?1519664261"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/643/small_thumb/BP134-11.jpg?1519675982",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/643/medium/BP134-11.jpg?1519675982"
+                    }
+                },
+                {
+                    "color": "Naranja",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.29",
+                    "net_price": "0.28",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/570/small_thumb/BP134-20.jpg?1519664264",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/570/medium_thumb/BP134-20.jpg?1519664264"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/644/small_thumb/BP134-20.jpg?1519675984",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/644/medium/BP134-20.jpg?1519675984"
+                    }
+                },
+                {
+                    "color": "Violeta",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 18,
+                    "list_price": "0.29",
+                    "net_price": "0.28",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/571/small_thumb/BP134-50.jpg?1519664266",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/571/medium_thumb/BP134-50.jpg?1519664266"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/645/small_thumb/BP134-50.jpg?1519675986",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/645/medium/BP134-50.jpg?1519675986"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP135",
+            "name": "BOLÍGRAFO",
+            "description": "Plástico. Cuerpo, pulsador, clip y puntera color plata. Grip de color. Tinta negra.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Negro",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.44",
+                    "net_price": "0.42",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/572/small_thumb/BP_135_grey.jpg?1519664268",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/572/medium_thumb/BP_135_grey.jpg?1519664268"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1tj28fx6rzo9f.cloudfront.net/pictures/small_thumb/missing.png",
+                        "medium": "https://d1tj28fx6rzo9f.cloudfront.net/pictures/medium/missing.png"
+                    }
+                },
+                {
+                    "color": "Azul",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.44",
+                    "net_price": "0.42",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/573/small_thumb/BP135-03.jpg?1519664269",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/573/medium_thumb/BP135-03.jpg?1519664269"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/646/small_thumb/BP135-03.jpg?1519675988",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/646/medium/BP135-03.jpg?1519675988"
+                    }
+                },
+                {
+                    "color": "Verde",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.44",
+                    "net_price": "0.42",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/574/small_thumb/BP135-04.jpg?1519664271",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/574/medium_thumb/BP135-04.jpg?1519664271"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/647/small_thumb/BP135-04.jpg?1519675990",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/647/medium/BP135-04.jpg?1519675990"
+                    }
+                },
+                {
+                    "color": "Rojo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 2,
+                    "list_price": "0.44",
+                    "net_price": "0.42",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/575/small_thumb/BP135-05.jpg?1519664273",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/575/medium_thumb/BP135-05.jpg?1519664273"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/648/small_thumb/BP135-05.jpg?1519675992",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/648/medium/BP135-05.jpg?1519675992"
+                    }
+                },
+                {
+                    "color": "Naranja",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.44",
+                    "net_price": "0.42",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/576/small_thumb/BP135-20.jpg?1519664275",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/576/medium_thumb/BP135-20.jpg?1519664275"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/649/small_thumb/BP135-20.jpg?1519675994",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/649/medium/BP135-20.jpg?1519675994"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP144",
+            "name": "BOLÍGRAFO \"SPACE\"",
+            "description": "Plástico. Pulsador, clip y puntera color plata. Grip de goma de color. Detalles negros. Clip metálico. Tinta negra. DETALLE METÁLICO.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Negro",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.48",
+                    "net_price": "0.46",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/584/small_thumb/BP144-02.jpg?1519664290",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/584/medium_thumb/BP144-02.jpg?1519664290"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/655/small_thumb/BP144-02.jpg?1519676006",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/655/medium/BP144-02.jpg?1519676006"
+                    }
+                },
+                {
+                    "color": "Azul",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.48",
+                    "net_price": "0.46",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/585/small_thumb/BP144-03.jpg?1519664293",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/585/medium_thumb/BP144-03.jpg?1519664293"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/656/small_thumb/BP144-03.jpg?1519676008",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/656/medium/BP144-03.jpg?1519676008"
+                    }
+                },
+                {
+                    "color": "Rojo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.48",
+                    "net_price": "0.46",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/586/small_thumb/BP144-05.jpg?1519664295",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/586/medium_thumb/BP144-05.jpg?1519664295"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/657/small_thumb/BP144-05.jpg?1519676010",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/657/medium/BP144-05.jpg?1519676010"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP145",
+            "name": "BOLÍGRAFO \"IRON\"",
+            "description": "Metálico. Apertura giratoria. Tinta negra. METAL.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Plata",
+                    "novedad": false,
+                    "stock_available": 3,
+                    "stock_existent": 1,
+                    "list_price": "3.3",
+                    "net_price": "3.14",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/587/small_thumb/BP145-frente.jpg?1519664297",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/587/medium_thumb/BP145-frente.jpg?1519664297"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/658/small_thumb/BP145-perfil.jpg?1519676012",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/658/medium/BP145-perfil.jpg?1519676012"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP151",
+            "name": "BOLÍGRAFO",
+            "description": "Plástico. Cuerpo, pulsador, clip y puntera color plata. Grip de goma de color. Detalles de color. Clip metálico. Tinta negra. DETALLE METÁLICO.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Azul",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.41",
+                    "net_price": "0.39",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/588/small_thumb/BP151-03.jpg?1519664298",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/588/medium_thumb/BP151-03.jpg?1519664298"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/659/small_thumb/BP151-03.jpg?1519676014",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/659/medium/BP151-03.jpg?1519676014"
+                    }
+                },
+                {
+                    "color": "Verde",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 16,
+                    "list_price": "0.41",
+                    "net_price": "0.39",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/589/small_thumb/BP151-04.jpg?1519664301",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/589/medium_thumb/BP151-04.jpg?1519664301"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/660/small_thumb/BP151-04.jpg?1519676018",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/660/medium/BP151-04.jpg?1519676018"
+                    }
+                },
+                {
+                    "color": "Rojo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.41",
+                    "net_price": "0.39",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/590/small_thumb/BP151-05.jpg?1519664305",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/590/medium_thumb/BP151-05.jpg?1519664305"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/661/small_thumb/BP151-05.jpg?1519676021",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/661/medium/BP151-05.jpg?1519676021"
+                    }
+                },
+                {
+                    "color": "Naranja",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 5,
+                    "list_price": "0.41",
+                    "net_price": "0.39",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/591/small_thumb/BP151-20.jpg?1519664308",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/591/medium_thumb/BP151-20.jpg?1519664308"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/662/small_thumb/BP151-20.jpg?1519676024",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/662/medium/BP151-20.jpg?1519676024"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "BP154",
+            "name": "BOLÍGRAFO \"TWISTER\"",
+            "description": "Plástico. Cuerpo color plata. Apertura giratoria. Cordón de seguridad para cuello. Desmontable. Grip de goma de color. Tinta negra.",
+            "category": "Escritura",
+            "variants": [
+                {
+                    "color": "Negro",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 12,
+                    "list_price": "0.54",
+                    "net_price": "0.51",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/594/small_thumb/BP154-02.jpg?1519664316",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/594/medium_thumb/BP154-02.jpg?1519664316"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/665/small_thumb/BP154-02.jpg?1519676031",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/665/medium/BP154-02.jpg?1519676031"
+                    }
+                },
+                {
+                    "color": "Azul",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 1,
+                    "list_price": "0.54",
+                    "net_price": "0.51",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/595/small_thumb/BP154-03.jpg?1519664320",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/595/medium_thumb/BP154-03.jpg?1519664320"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/666/small_thumb/BP154-03.jpg?1519676034",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/666/medium/BP154-03.jpg?1519676034"
+                    }
+                },
+                {
+                    "color": "Verde",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 10059,
+                    "list_price": "0.54",
+                    "net_price": "0.51",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/596/small_thumb/BP154-04.jpg?1519664323",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/596/medium_thumb/BP154-04.jpg?1519664323"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/667/small_thumb/BP154-04.jpg?1519676038",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/667/medium/BP154-04.jpg?1519676038"
+                    }
+                },
+                {
+                    "color": "Rojo",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 9382,
+                    "list_price": "0.54",
+                    "net_price": "0.51",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/597/small_thumb/BP154-05.jpg?1519664326",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/597/medium_thumb/BP154-05.jpg?1519664326"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/668/small_thumb/BP154-05.jpg?1519676040",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/668/medium/BP154-05.jpg?1519676040"
+                    }
+                },
+                {
+                    "color": "Naranja",
+                    "novedad": false,
+                    "stock_available": 0,
+                    "stock_existent": 0,
+                    "list_price": "0.54",
+                    "net_price": "0.51",
+                    "picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/598/small_thumb/BP154-20.jpg?1519664330",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/007/598/medium_thumb/BP154-20.jpg?1519664330"
+                    },
+                    "detail_picture": {
+                        "small": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/669/small_thumb/BP154-20.jpg?1519676043",
+                        "medium": "https://d1ok1ldurjeiif.cloudfront.net/product_images/pictures/000/010/669/medium/BP154-20.jpg?1519676043"
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "current_page": 1,
+            "prev_page": null,
+            "next_page": 2,
+            "total_pages": 20,
+            "total_count": 192
+        }
+    }
+}

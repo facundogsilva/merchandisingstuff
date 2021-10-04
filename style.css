@@ -1,0 +1,512 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.index-text {
+  margin: 30px 30px 30px 50px;
+}
+
+.headers {
+  margin-left: 30px;
+  color: #029CD9;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+.head {
+    background-color: #01273E;
+}
+.logo img {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: 150px;
+  
+}
+
+.header {
+    display: grid;
+    grid-column-gap: 0px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.blank-space {
+    grid-column: 1;
+}
+
+.blank-space img {
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.logo {
+    grid-column: 2;
+    
+}
+.user {
+    grid-column: 3;
+    display: grid; 
+    
+}
+
+.barra-usuario {
+
+    background-color: #029CD9;  
+    color: white;
+    padding: 5px;  
+    justify-self: end;
+    align-self: start;
+    font-size: 1vw;
+
+}
+
+.barra-usuario a {
+  color:white;
+  text-decoration: none;
+} 
+.footer a:visited { 
+  text-decoration: none; 
+  color:white;
+}
+
+.topnav {
+    background-color: #E5E5E5;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+
+  
+  
+  @media screen and (max-width: 600px) {
+    .topnav a, .topnav input[type=text] {
+      float: none;
+      display: block;
+      text-align: left;
+      width: 100%;
+      margin: 0;
+      padding: 14px;
+    }
+    .topnav input[type=text] {
+      border: 1px solid #ccc;
+    }
+  }
+
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #E5E5E5;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 0px;
+    font-size: 16px;
+  }
+
+ .search-bar button {
+    float: right;
+    width: 2%;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 10px;
+    font-size: 16px;
+    background: #2196F3;
+    color: white;
+    font-size: 14px;
+    border: 0px;
+    cursor: pointer;
+  }
+/* index */
+
+
+.index-video{
+  display: flex;
+  justify-content: center;
+}
+
+.headers {
+    font-size: 24px;
+}
+.text {
+    font-size: 20px;
+}
+.expand {
+    font-size: 17px;
+    text-align: center;
+}
+
+.expand a {
+  color:black;
+  text-decoration: none;
+} 
+.expand a:visited { text-decoration: none; color:black;
+}
+.productos-slider-container {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-rows: repeat(2, minmax(0, 1fr));  
+  margin-left: 100px;
+  margin-bottom: 30px;
+
+}
+.item1 {
+  grid-column: 1;
+  grid-row: 1;
+  margin-bottom: 20px;
+}
+.item2 {
+  grid-column: 2;
+  grid-row: 1;
+}
+.item3 {
+  grid-column: 3;
+  grid-row: 1;
+}
+.item4 {
+  grid-column: 4;
+  grid-row: 1;
+}
+.item5 {
+  grid-column: 5;
+  grid-row: 1;
+}
+.item6 {
+  grid-column: 1;
+  grid-row: 2;
+}
+.item7 {
+  grid-column: 2;
+  grid-row: 2;
+}
+.item8 {
+  grid-column: 3;
+  grid-row: 2;
+}
+.item9 {
+  grid-column: 4;
+  grid-row: 2;
+}
+.item10 {
+  grid-column: 5;
+  grid-row: 2;
+}
+
+.item1 img {
+  width: 70%;
+}
+.item2 img {
+  width: 70%;
+}
+.item3 img {
+  width: 70%;
+}
+.item4 img {
+  width: 70%;
+}
+.item5 img {
+  width: 70%;
+}
+.item6 img {
+  width: 70%;
+}
+.item7 img {
+  width: 70%;
+}
+.item8 img {
+  width: 70%;
+}
+.item9 img {
+  width: 70%;
+}
+.item10 img {
+  width: 70%;
+}
+
+.footer {
+    background-color: #01273E;
+    display: grid;
+    grid-column-gap: 0px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.blank-space {
+    grid-column: 1;
+}
+.logo {
+    grid-column: 2;
+}
+
+.hredes-sociales {
+  grid-column: 3;
+  color: white;
+  margin: 30px;
+  font-weight: bold;
+
+}
+.redes-sociales {
+    grid-column: 3;
+    color: white;
+    margin: 0px;
+    font-weight: normal;
+    
+}
+
+.footer a {
+  color:white;
+  text-decoration: none;
+} 
+.footer a:visited { 
+  text-decoration: none; 
+  color:white;
+}
+
+
+
+/* faq */
+
+.faq-h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+
+}
+
+.faq-h2 {
+  font-size: 24px;
+  margin-left: 10px;
+  font-weight: bold;
+  color: #029CDC;
+  margin-left: 70px;
+
+}
+
+.faq-text {
+  margin: 30px 100px 30px 100px;
+  font-size: 18px;
+
+}
+
+.faq-bold {
+  font-weight: bold;
+}
+
+/* contacto */
+
+.contacto-container {
+  display: grid;
+  grid-column-gap: 0px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.contacto-info {
+  grid-column: 1;
+  text-align: center;
+}
+.contacto-h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #029CDC;
+}
+.contacto-text {
+  line-height: 2;
+}
+.contacto-bold {
+  font-weight: bold;
+}
+.contacto-text a {
+  text-decoration: none;
+  color: black;
+}
+
+.contacto-text a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.contacto-mapa {
+  background-color: grey;
+  height: 300px;
+  width: 600px;
+  justify-self: center;
+  align-self: center;
+}
+
+.contacto-formulario {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row: 2;
+  grid-row: 2;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.contacto-formulario input[type=text], select, textarea {
+  width: 50%; /* Full width */
+  padding: 16px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+}
+
+/* Style the submit button with a specific background color etc */
+.contacto-formulario input[type=submit] {
+  background-color: #029CDC;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+/* carrito */
+
+.carrito-header {
+  font-size: 24px;
+  margin-left: 10px;
+  font-weight: bold;
+  color: #029CDC;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.carrito-button button {
+  background-color: #029CDC;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+/* usuario */
+
+.usuario-h1 {
+  font-size: 24px;
+  margin-left: 10px;
+  font-weight: bold;
+  color: #029CDC;
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+.usuario-h2 {
+  margin: 30px 30px 30px 30px;
+  font-size: 18px;
+
+}
+
+.usuario-text {
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #029CDC;
+  text-align: center;
+}
+
+.usuario-form{
+  text-align: start;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 575px;
+}
+
+.usuario-form input[type=text] {
+  border: 1px dotted #999;
+  border-radius: 3px;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  width: 300px;
+  -webkit-appearance: none;
+}
+
+.usuario-text button {
+  background-color: #029CDC;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
