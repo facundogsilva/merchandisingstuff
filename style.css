@@ -16,7 +16,7 @@ html {
     font-family: 'Roboto', sans-serif;
 }
 .head {
-    background-color: #01273E;
+    background-color: #00568a;
 }
 .logo img {
     display: block;
@@ -284,7 +284,7 @@ html {
 }
 
 .footer {
-    background-color: #01273E;
+    background-color: #00568a;
     display: grid;
     grid-column-gap: 0px;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -324,6 +324,12 @@ html {
 
 /* faq */
 
+video {
+  display: block;
+  margin: 0 auto;
+  
+}
+
 .faq-h1 {
   font-size: 40px;
   text-align: center;
@@ -349,6 +355,9 @@ html {
 
 .faq-bold {
   font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 /* contacto */
@@ -509,4 +518,39 @@ html {
   border-radius: 4px;
   cursor: pointer;
   margin-bottom: 50px;
+  font-weight: bold;
 }
+
+/* productos */
+
+#product-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 40px;
+  max-width: 1200px;
+  margin: 30px auto;
+  
+}
+
+.single-product {
+  background-color: gainsboro;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: -8px 8px 6px -6px black;
+  display: grid;
+  
+}
+
+.product-images-general {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  align-self: center;
+}
+
+h4 {
+  text-align: center;
+  font-weight: bold;
+
+}
+
